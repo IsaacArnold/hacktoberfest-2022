@@ -8,7 +8,7 @@
   Hacktoberfest 2022
 </h1>
 
-This repo is for beginners who want to learn how to clone a repo, create a branch, update code and submit a pull request - all while participating in Hacktoberfest 2022.
+This repo is for beginners who want to learn how to create a branch, edit code and submit a pull request - all while participating in Hacktoberfest 2022! Join in the fun!!
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
