@@ -5,10 +5,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Hacktoberfest 2022
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+This repo is for beginners who want to learn how to create a branch, edit code and submit a pull request - all while participating in Hacktoberfest 2022! Join in the fun!!
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
